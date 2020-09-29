@@ -1,5 +1,5 @@
-from ConceptLearning import SFinder
-from ConceptLearning import CEleminator
+from concept_learning import SFinder
+from concept_learning import CEleminator
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
